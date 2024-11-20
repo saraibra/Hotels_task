@@ -3,8 +3,6 @@
 A new Flutter project.
 
 # Packages
-
-
   http: ^1.1.0
   dartz: ^0.10.1
   equatable: ^2.0.5
